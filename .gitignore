@@ -1,0 +1,4 @@
+__pycache__/
+skl_data/
+results/*.npz
+.DS_Store

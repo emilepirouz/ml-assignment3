@@ -1,0 +1,22 @@
+{
+ "sgd": {
+  "eta": 0.03,
+  "alpha": 0.9,
+  "lam": 0.0,
+  "batch_size": 32
+ },
+ "epochs": 200,
+ "sasla": {
+  "beta": 0.5
+ },
+ "saila": {
+  "init_frac": 0.1,
+  "query_frac": 0.02,
+  "interval": 1
+ },
+ "uncertainty": {
+  "init_frac": 0.1,
+  "query_frac": 0.1,
+  "interval": 20
+ }
+}
